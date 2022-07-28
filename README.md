@@ -5,7 +5,7 @@
 <a href="https://twitter.com/ruymesquita"><img src="assets/twitter.svg" width="30" height="30"/></a>
 
 
-- 🔭 I’m currently working on [SKY](https://www.linkedin.com/company/skyportugal/) as a mobile developer
+- 🔭 I’m currently working on [LetsGetChecked](https://www.letsgetchecked.ie/) as a mobile developer
 - 💬 Ask me about anything [here](https://github.com/mesquitaa/mesquitaa/issues/new)
 
 <br/>
